@@ -7,8 +7,8 @@ title: 镭空间
 subtitle: 你的指尖有改变世界的力量！
 description:
 keywords:
-author: lane-chen
-language: 
+author: lane.chen
+language: zh-Hans
 timezone:
 
 # URL
@@ -74,7 +74,12 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
-
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+  
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
