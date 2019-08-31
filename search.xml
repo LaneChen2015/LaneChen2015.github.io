@@ -17,17 +17,17 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Spark on Yarn原理剖析]]></title>
-    <url>%2F2018%2F11%2F28%2Fspark2.0-on-yarn%2F</url>
-    <content type="text"></content>
+    <title><![CDATA[Spark2.0 Rpc原理剖析]]></title>
+    <url>%2F2018%2F11%2F28%2Fspark2.0-rpc-internal%2F</url>
+    <content type="text"><![CDATA[spark rpc include three components.]]></content>
       <tags>
         <tag>Spark</tag>
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Spark2.0 Rpc原理剖析]]></title>
-    <url>%2F2018%2F11%2F28%2Fspark2.0-rpc-internal%2F</url>
-    <content type="text"><![CDATA[spark rpc include three components.]]></content>
+    <title><![CDATA[Spark on Yarn原理剖析]]></title>
+    <url>%2F2018%2F11%2F28%2Fspark2.0-on-yarn%2F</url>
+    <content type="text"></content>
       <tags>
         <tag>Spark</tag>
       </tags>
